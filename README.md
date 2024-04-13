@@ -6,7 +6,7 @@ In this project we used Bank Customer details that we have segmented using K-mea
 
 - 045030.pdf: Project Report in pdf format
 
-- 045030_Project_ML_Ensemble_CV_Term_III.ipynb: Contains the executable code as well as the Report of the Classification.
+- 045030_ML_CV_Ensemble_Term_III.ipynb: Contains the executable code as well as the Report of the Classification.
 
 REFERENCES:
 - Dataset: Kaggle.com (https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification)
